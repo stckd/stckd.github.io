@@ -70,8 +70,8 @@ td {
 }
 
 #container img {
-    max-width: 9em;
-    width: 10em;
+    max-width: 20em;
+    width: 20em;
     border: .1em solid;
     transition-duration: .1s;
     margin: .6em;
@@ -79,7 +79,7 @@ td {
 
 #container img:hover {
     margin: 0px;
-    width:15em;
-    max-width: 15em;
+    width:30em;
+    max-width: 30em;
     transition-duration: .4s;
 }
