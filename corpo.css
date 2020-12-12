@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Pixelated';
+    src: url('Pixelated.woff2') format('woff2'), url('Pixelated.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body {
+    background-image: url(https://giffiles.alphacoders.com/105/105186.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    font-family: 'Pixelated';
+    word-spacing: .5em;
+    
+}

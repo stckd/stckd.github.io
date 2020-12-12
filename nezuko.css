@@ -1,0 +1,8 @@
+#nezuko {
+    position: fixed;
+    height: 20%;
+    width: auto;
+    bottom: 0px;
+    right: 0px;
+    visibility: hidden;
+}
