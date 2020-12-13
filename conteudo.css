@@ -35,20 +35,6 @@ p {
     margin: 0;
 }
 
-ul {
-    list-style-type: none;
-    padding: 0px;
-    background-color: RGBA(0, 0, 0, .5);
-    margin: 0px;
-    border-style: solid;
-    border-width: 0px 0px 4px 0px;
-}
-
-li {
-    display: inline-block;
-    padding: .3em;
-}
-
 iframe {
     position: absolute;
     left: -1000px;
